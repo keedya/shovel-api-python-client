@@ -3,7 +3,7 @@
 import sys
 from setuptools import setup, find_packages
 
-NAME = "python-shovel"
+NAME = "python_shovel"
 VERSION = "1.0.0"
 
 

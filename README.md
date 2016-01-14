@@ -19,7 +19,7 @@ pip install git+https://github.com/keedya/python-shovel.git
 To use the bindings, import the pacakge:
 
 ```python
-import python-shovel
+import python_shovel
 ```
 
 ```python

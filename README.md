@@ -22,9 +22,6 @@ To use the bindings, import the pacakge:
 import python_shovel
 ```
 
-```python
-import path.to.python-shovel
-```
 ## Description
 
 API Client Library for [Shovel](https://github.com/keedya/Shovel)(RackHD/OpenStack Coordinator)

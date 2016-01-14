@@ -27,7 +27,7 @@ import path.to.python-shovel
 ```
 ## Description
 
-TODO
+Python Client Package for [Shovel](https://github.com/keedya/Shovel)(RackHD/OpenStack Coordinator)
 
 ## Example
 

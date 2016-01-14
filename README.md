@@ -25,12 +25,25 @@ import python_shovel
 ```python
 import path.to.python-shovel
 ```
-## Getting Started
+## Description
 
 TODO
 
-## Documentation
+## Example
 
-TODO
+```python
+from python_shovel import Configuration
+from python_shovel import ApiClient
+from python_shovel import GETApi as get_api
+
+def get_config():
+    config = Configuration()
+    config.host = 'http://localhost:9005/api/1.1'
+    config.verify_ssl = False
+    config.api_client = ApiClient(host=config.host)
+    config.debug = False
+    get_api().configget()
+    print config.api_client.last_response.data
+```
 
 

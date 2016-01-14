@@ -1,4 +1,4 @@
-# python-shovel
+# shovel-api-python-client
 
 ## Requirements.
 Python 2.7 and later.

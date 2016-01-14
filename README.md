@@ -13,7 +13,7 @@ python setup.py install
 Or you can install from Github via pip:
 
 ```sh
-pip install git+https://github.com/keedya/python-shovel.git
+pip install git+https://github.com/keedya/shovel-api-python-client.git
 ```
 
 To use the bindings, import the pacakge:

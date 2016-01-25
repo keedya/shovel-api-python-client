@@ -15,6 +15,11 @@ Or you can install from Github via pip:
 ```sh
 pip install git+https://github.com/keedya/shovel-api-python-client.git
 ```
+Or you can install it from Pypi using pip install (https://pypi.python.org/pypi/python-shovel)
+
+```sh
+pip install python-shovel
+```
 
 To use the bindings, import the pacakge:
 
